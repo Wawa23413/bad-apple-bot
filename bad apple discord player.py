@@ -96,4 +96,4 @@ async def on_message(message):
 
                     disp = True
 
-client.run('MTA0NjI5ODk1MTc4MDkzMzY2Mg.G4Tzf9.nCnmiT2TrVxnhUzVc0J1tELMErXtf2XOZtdHuE')#<--- Put bot token here
+client.run('MTA0NjI5ODk1MTc4MDkzMzY2Mg.GMqNzk.KI9Tplbl_0u4HB2LH5rpTR6Wht6Bie4_6YWHXI')#<--- Put bot token here
